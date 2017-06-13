@@ -1,0 +1,126 @@
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-family: 'roboto', sans-serif;
+
+}
+/**header**/
+.header{
+	background-color: #F9C06B;
+}
+.header img{
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-left: 10%;
+	border-radius: 10px;
+}
+.menu .btn{
+	margin-top: 10%;
+}
+.menu .btn-group{
+	margin-top: 7.5%;
+}
+
+/**slider**/
+.slider{
+
+}
+/**receta1**/
+.imagenreceta1 img{
+	width: 70%;
+	margin-top: 4%;
+	border-radius: 10px;
+
+}
+.receta{
+	border: 5px solid #F9AA34;
+	border-radius: 10px;
+	margin-top: 2%;
+
+}
+.receta ul{
+	text-align: justify;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: 10%;
+	font-size: 120%;
+	list-style: none;
+
+}
+.prepa{
+	display: none;
+	border: 5px solid #F9AA34;
+	border-radius: 10px;
+	text-align: justify;
+	margin-top: 2%;
+	margin-bottom: 5%;
+	font-size: 100%;
+
+}	
+.prepa h3{
+	text-align: center;
+}
+.receta{
+	display: block;
+}
+/**receta2**/
+.receta2{
+	border: 5px solid #F3A712;
+	border-radius: 10px;
+	margin-top: 4%;
+
+}
+.receta2 ul{
+	text-align: justify;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: 10%;
+	font-size: 120%;
+	list-style: none;
+}
+.imagenreceta2 img{
+	width: 90%;
+	margin-top: 10%;
+	border-radius: 10px;
+}
+
+.estilovermas{
+	text-align: right;
+	font-size: 120%;
+}
+.ademas{
+	font-size: 100%;
+	text-align: center;
+}
+.ademas a{
+	color: orange;
+}
+
+/**formulario**/
+.formulario{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background-color: #FFD089;
+	border-radius: 20px;
+}
+.email{
+	margin-left: 1.5%;
+}
+
+#newsletter{
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+.form{
+	margin-top: 2%;
+}
+/**footer**/
+.footer{
+	background-color: #EFB153;
+	height: 110%;
+	text-align: right;
+
+}
